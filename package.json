@@ -1,0 +1,28 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankdabhi-a11y/cypress-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankdabhi-a11y/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/mayankdabhi-a11y/cypress-automation#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "cypress": "^15.2.0",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.9.2"
+  }
+}
